@@ -17,8 +17,7 @@ buildtool: true
 markdownpage: true
 
 ---
-
-All methods and properties listed on this page are public. If you want to take a look at example of what API can do, take a look in [source of default PhotoSwipe UI](https://github.com/dimsemenov/PhotoSwipe/blob/master/src/js/ui/photoswipe-ui-default.js).
+이 페이지에 나열된 모든 메소드 및 속성은 공개됩니다. API가 할 수있는 일의 예를 보고 싶다면 [기본 PhotoSwipeUI소스](https://github.com/dimsemenov/PhotoSwipe/blob/master/src/js/ui/photoswipe-ui-default.js)를 살펴보십시오.
 
 You can get PhotoSwipe instance object during the initialization, e.g.:
 
