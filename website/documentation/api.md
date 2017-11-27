@@ -19,8 +19,7 @@ markdownpage: true
 ---
 이 페이지에 나열된 모든 메소드 및 속성은 공개됩니다. API가 할 수있는 일의 예를 보고 싶다면 [기본 PhotoSwipeUI소스](https://github.com/dimsemenov/PhotoSwipe/blob/master/src/js/ui/photoswipe-ui-default.js)를 살펴보십시오.
 
-초기화하는 동안 PhotoSwipe 인스턴스 객체를 가져올 수 있습니다.
-(예:
+초기화하는 동안 PhotoSwipe 인스턴스 객체를 가져올 수 있습니다.(예:
 
 ```javascript
 var photoswipeInstance = new PhotoSwipe( /* ... */ );
